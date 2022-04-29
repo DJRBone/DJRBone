@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://djrbone.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-04-29T12:15:35.675Z</updated>
+    <title>djrb</title>
+    <updated>2022-04-29T12:18:12.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://djrbone.github.io"/>
     <link rel="self" href="https://djrbone.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://djrbone.github.io/images/avatar.png</logo>
     <icon>https://djrbone.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, djrb</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://djrbone.github.io/post/hello-gridea/</id>
