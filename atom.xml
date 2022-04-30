@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://djrbone.github.io</id>
     <title>djrb</title>
-    <updated>2022-04-29T13:40:36.295Z</updated>
+    <updated>2022-04-30T08:35:21.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://djrbone.github.io"/>
     <link rel="self" href="https://djrbone.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://djrbone.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, djrb</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[Hello]]></title>
         <id>https://djrbone.github.io/post/hello-gridea/</id>
         <link href="https://djrbone.github.io/post/hello-gridea/">
         </link>
